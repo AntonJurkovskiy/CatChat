@@ -10,7 +10,7 @@
     <fragment
         android:id="@+id/inboxFragment"
         android:name="com.azimut4946777.catchat.InboxFragment"
-        android:label="Inbox Fragment"
+        android:label="Inbox"
         tools:layout="@layout/fragment_inbox" />
     <fragment
         android:id="@+id/helpFragment"
