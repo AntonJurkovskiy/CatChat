@@ -10,11 +10,16 @@
     <fragment
         android:id="@+id/inboxFragment"
         android:name="com.azimut4946777.catchat.InboxFragment"
-        android:label="Inbox"
+        android:label="@string/inboxFragment_label"
         tools:layout="@layout/fragment_inbox" />
     <fragment
         android:id="@+id/helpFragment"
         android:name="com.azimut4946777.catchat.HelpFragment"
-        android:label="Help"
+        android:label="@string/helpFragment_label"
         tools:layout="@layout/fragment_help" />
+    <fragment
+        android:id="@+id/sentItemsFragment"
+        android:name="com.azimut4946777.catchat.SentItemsFragment"
+        android:label="@string/sentItemsFragmentLabel"
+        tools:layout="@layout/fragment_sent_items" />
 </navigation>

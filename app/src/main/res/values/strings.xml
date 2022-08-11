@@ -2,4 +2,7 @@
     <string name="app_name">CatChat</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="inboxFragment_label">Inbox</string>
+    <string name="helpFragment_label">Help</string>
+    <string name="sentItemsFragmentLabel">Sent Items</string>
 </resources>
